@@ -1,0 +1,5 @@
+D:\Arquivos_pessoais\Estudos DIO\FLIXPLHPdev001\fnPostDataStorage\fnPostDataStorage\obj\Debug\net8.0\fnPostDataStorage.csproj.AssemblyReference.cache
+D:\Arquivos_pessoais\Estudos DIO\FLIXPLHPdev001\fnPostDataStorage\fnPostDataStorage\obj\Debug\net8.0\fnPostDataStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos_pessoais\Estudos DIO\FLIXPLHPdev001\fnPostDataStorage\fnPostDataStorage\obj\Debug\net8.0\fnPostDataStorage.AssemblyInfoInputs.cache
+D:\Arquivos_pessoais\Estudos DIO\FLIXPLHPdev001\fnPostDataStorage\fnPostDataStorage\obj\Debug\net8.0\fnPostDataStorage.AssemblyInfo.cs
+D:\Arquivos_pessoais\Estudos DIO\FLIXPLHPdev001\fnPostDataStorage\fnPostDataStorage\obj\Debug\net8.0\fnPostDataStorage.csproj.CoreCompileInputs.cache
